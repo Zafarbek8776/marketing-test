@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://chatgpt.com/s/t_6b058ffc6a9c8191bf88db0fa65bd740",
+      "permanent": false
+    }
+  ]
+}
